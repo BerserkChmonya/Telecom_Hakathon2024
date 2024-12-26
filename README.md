@@ -21,6 +21,9 @@ Our main inspiration comes from being cybersecurity students eager to gain hands
 
 We also firmly believe that projects like this are essential for the development of secure web applications. Vulnerabilities are a real and constant threat, and the number of people who seek to exploit them is significant. Addressing these risks proactively is not just a learning opportunity but also a necessity for creating a safer digital environment.
 
+> **Note**: This entire project was developed in approximately 18 hours, showcasing the team's ability to rapidly prototype and deliver impactful solutions.
+
+
 # What It Does
 
 Our web application takes three inputs:
